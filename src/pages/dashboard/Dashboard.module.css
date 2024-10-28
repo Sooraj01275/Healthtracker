@@ -1,0 +1,16 @@
+.caseCard{
+    border: 1px solid ;
+    box-shadow: 10px;
+    border-radius: 5px;
+}
+
+.caseCard .info{
+    font-weight: 600;
+    color: #fff;
+}
+
+.gridCard{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+}
